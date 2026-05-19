@@ -22,6 +22,7 @@ A machine learning model based on **ridge regression** was developed for forecas
 ## 📁 Structure Project
 
 ```
+├── Weather.csv # Raw weather data (Tmax, Tmin, precipitation, snow, etc.)
 ├── Weather.ipynb # Jupyter Notebook / Colab with the model implementation
 └── README.md # Project Description
 ```
