@@ -1,4 +1,4 @@
-##🌦️ Optimal weather forecast based on open-source data
+## 🌦️ Optimal weather forecast based on open-source data
 
 Course project on "Problem Solving Models in Intelligent Systems"
 A machine learning model based on **ridge regression** was developed for forecasting weather parameters (temperature) based on historical data from 1973 to 2023.
